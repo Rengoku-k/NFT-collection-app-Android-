@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+    <string name="submit_label">Submit</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_label">Login</string>
+    <string name="logout_label">Logout</string>
+    <string name="enter_post_label">Enter Post</string>
+    <string name="create_forum">New Forum</string>
+    <string name="posts_label">Posts</string>
+    <string name="create_account_label">Create New Account</string>
+    <string name="nft_sort_label">Sort NFT</string>
+    <string name="collection_sort_label">Sort Collection</string>
+    <string name="final_exam_key">E5EPKX0DVVB7JDRBX2HN</string>
+</resources>

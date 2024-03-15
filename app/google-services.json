@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "744010531801",
+    "project_id": "demo2-95bdf",
+    "storage_bucket": "demo2-95bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744010531801:android:61b117c0c51acb036f8fc8",
+        "android_client_info": {
+          "package_name": "edu.uncc.assessment07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744010531801-i7ggl919vj3tngsqdd7vf2b5tt1jubnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8ogRT3rLkFU8k_4UCuC11f769z40nzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744010531801-i7ggl919vj3tngsqdd7vf2b5tt1jubnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744010531801:android:a143a1e9f69982af6f8fc8",
+        "android_client_info": {
+          "package_name": "edu.uncc.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744010531801-i7ggl919vj3tngsqdd7vf2b5tt1jubnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8ogRT3rLkFU8k_4UCuC11f769z40nzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744010531801-i7ggl919vj3tngsqdd7vf2b5tt1jubnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
